@@ -1,5 +1,5 @@
-# discord_update_fedora
-Updates discord on fedora. (I'm not a big fan of flatpaks) 
+# discord_update
+Updates discord on linux. (I'm not a big fan of flatpaks) 
 
 I installed discord on fedroa with the RPM package and for some goddamn reason it doesn't update. So I made this neat little script that:
       
